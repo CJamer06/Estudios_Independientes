@@ -1,0 +1,37 @@
+¿Que es una matriz o tabla?
+
+Una matriz es un vector de vectores o un tambien llamado array bidimencional. la manera de declarar una matriz en C++
+es similar a un vector.
+
+Declarar matriz
+
+tipo NOMBRE_VARIABLE[#FILAS][#COLUMNAS] 
+
+Ejemplo
+
+int Numeros[10][10] => Tiene 10 filas y 10 columnas
+char letras[3][2] => Tene 3 filas y 2 columnas
+
+Agregar elementos
+
+Para esto debe indicarse al igul que en los vectores en que posicion se desea guardar el elemento, teneiendo en cuenta
+las filas y las columnas.
+
+int numeros[2][3] = {1,2,3,4,5,6}
+
+F0 => |1| |2| |3|
+F1 => |4| |5| |6|
+       ^   ^   ^
+       C0  C1  C2
+
+cout<<numeros[1][2] = 6
+      |-| |-| |-|
+F1 => |-| |-| |6|
+               ^
+               C2
+
+cout<<numeros[0][1] = 2
+F1 => |-| |2| |-|
+      |-| |-| |-|
+           ^
+           C1      

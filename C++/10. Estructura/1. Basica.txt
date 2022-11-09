@@ -1,0 +1,52 @@
+ESTRUCTURA (STRUCT)
+
+    Es una colección de uno a mas tipos de elementos denominados campos, cada uno de los cuales puede se un tipo de dato 
+    diferente.
+
+    struct NOM_STRUCT
+    {
+        -Declara las variables-
+        .
+        .
+        .
+        tipo_dato Nom_campo;
+    };
+
+    Ejemplo
+
+    Supongamos que se desea almacenar los datos de una coleccion de discos compactos (CD) de musica. Estos datos pueden ser:
+
+    - Titulo
+    - Artista
+    - Numero de canciones
+    - Precio
+    - Fecha de compra
+
+    struct coleccion_CD
+    {
+        char Titulo[50];
+        char Artista[50;]
+        int Num_canciones
+        float Precio
+        char Fecha_compra[20]
+    };
+
+DECLARANDO VARIABLES STRUCT
+
+Con esto cada una de las variables, CD# en este caso cuenta con con la informacion almacenada en el struct: titulo, Artista...
+etc.
+
+
+    int main()
+    {
+        struct coleccion_CD CD1, CD2, CD3;
+    }
+
+    struct coleccion_CD
+    {
+        char Titulo[50];
+        char Artista[50;]
+        int Num_canciones
+        float Precio
+        char Fecha_compra[20]
+    }CD1, CD2, CD3;

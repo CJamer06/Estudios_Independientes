@@ -1,0 +1,26 @@
+Estructura Anidad C++
+
+Es una colección de uno a mas tipos de elementos denominados campos, dentro de otra coleccion llamada 
+estructura:
+
+struct info_direccion{
+    char direccion[30];
+    char ciudad[30];
+    char provincia[30];
+};
+
+struct empleado{
+    char nombre[20];
+    struct info_direccion dir_empleado;  //Llamamos a la estructura anidada anterior.
+    double salario;
+}
+
+De forma grafica tenemos:
+
+    > Empleado
+        - Nombre 
+        - dir_empleado
+            + direccion
+            + ciudad
+            + provincia
+        - salario 
