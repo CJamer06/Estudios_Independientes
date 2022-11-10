@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="591a5839-15d0-4a26-b0bb-cecbad7495ce" name="Changes" comment="Organizacion por bloques, Bloque 1 y Bloque 2, al igual que el inicio en el bloque 2 del uso del JOptionePane.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="591a5839-15d0-4a26-b0bb-cecbad7495ce" name="Changes" comment="Organizacion por bloques, Bloque 1 y Bloque 2, al igual que el inicio en el bloque 2 del uso del JOptionePane." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,6 +34,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/carlosj/Escritorio/Estudio/Java/Ejercicios&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -55,6 +54,8 @@
       <workItem from="1667839483358" duration="1031000" />
       <workItem from="1667840534618" duration="3717000" />
       <workItem from="1668013570805" duration="4303000" />
+      <workItem from="1668023516864" duration="153000" />
+      <workItem from="1668095261251" duration="3867000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 1, 2 y 3 de Java para principiantes">
       <created>1667840612739</created>
@@ -77,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668017262950</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Organizacion por bloques, Bloque 1 y Bloque 2, al igual que el inicio en el bloque 2 del uso del JOptionePane.">
+      <created>1668023592778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668023592778</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
