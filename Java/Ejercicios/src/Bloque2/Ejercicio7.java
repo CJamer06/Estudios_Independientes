@@ -14,8 +14,12 @@ public class Ejercicio7 {
             JOptionPane.showMessageDialog(null, "El orden es: "+a+", "+c+" y "+b);
         } else if(b>a && a>c){
             JOptionPane.showMessageDialog(null, "El orden es: "+b+", "+a+" y "+c);
-        } else if(b>a && a>c){
-            JOptionPane.showMessageDialog(null, "El orden es: "+b+", "+a+" y "+c);
+        } else if(b>c && c>a){
+            JOptionPane.showMessageDialog(null, "El orden es: "+b+", "+c+" y "+a);
+        } else if(c>a && a>b){
+            JOptionPane.showMessageDialog(null, "El orden es: "+c+", "+a+" y "+b);
+        } else if(c>b && b>a){
+            JOptionPane.showMessageDialog(null, "El orden es: "+c+", "+b+" y "+a);
         }
     }
 }
