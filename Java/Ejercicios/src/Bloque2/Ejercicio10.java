@@ -2,7 +2,7 @@ package Bloque2;
 
 import javax.swing.*;
 
-public class Ejercicio9 {
+public class Ejercicio10 {
     public static void main(String[] args) {
         int Dia = Integer.parseInt(JOptionPane.showInputDialog("Ingrese el Día [1-30]: "));
         int Mes = Integer.parseInt(JOptionPane.showInputDialog("Ingrese el Mes [1-12]: "));
