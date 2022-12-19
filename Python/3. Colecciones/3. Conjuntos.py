@@ -1,6 +1,6 @@
 #Conjuntos
 '''
-Los conjuntos son grupos de elementos juntos, donde no se  repitan valores o datos, y no cunte con listas demntro de
+Los conjuntos son grupos de elementos juntos, donde no se repitan valores o datos, y no cuente con listas dentro de
 el.
 
 Declarar conjuntos

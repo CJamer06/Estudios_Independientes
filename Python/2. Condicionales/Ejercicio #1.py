@@ -4,7 +4,7 @@ NUM1 = int(input("Valor #1: "))
 NUM2 = int(input("Valor #2: "))
 
 if NUM1%2 == 0 and NUM2%2 == 0:
-    print("AMbos son pares")
+    print("Ambos son pares")
 elif NUM1 % 2 == 0 and NUM2 % 2 != 0:
     print(f"Valor #1 es par")
 elif NUM1 % 2 != 0 and NUM2 % 2 == 0:

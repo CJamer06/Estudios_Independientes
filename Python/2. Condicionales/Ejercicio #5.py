@@ -8,9 +8,9 @@ OP = int(input(f"\t MENU \n"
                "2. Retirar dinero de la cuenta\n"
                "3. Mostrar dinero disponible\n"
                "4. Salir\n"
-               "Opcion: "))
+               "Opción: "))
 if OP == 1:
-    F = float(input(f"Cuanto desea ingrasar: "))
+    F = float(input(f"Cuanto desea ingresar: "))
     I += F
     print(f"Saldo total: {I}")
 elif OP == 2:
@@ -23,7 +23,7 @@ elif OP == 2:
 elif OP == 3:
     print(f"Saldo total: {I}")
 elif OP == 4:
-    print(f"Gracias por usar su cajero automatico")
+    print(f"Gracias por usar su cajero automático")
 else:
     print(f"\tError\n")
 

@@ -13,7 +13,7 @@ Para mostrar un solo un elemento de la lista debemos tener presente que las list
 al interior de la lista tenemos 2 formas, las cuales son:
 
 print(<Nombre de la lista>[<Posicion>]
-print(<Nombre de la lista>[- <Posicion>] #En este caso se recore de atras hacia delante.
+print(<Nombre de la lista>[- <Posicion>] #En este caso se recorre de atrás hacia delante.
 '''
 
 print(f"El primer dia de la lista es {lista[0]}") #Python reconoce el 0 como primera posicion
@@ -60,7 +60,7 @@ Para ingresar datos en una lista usamos la siguiente funcion:
 <Nombre lista>.extend(<Dato a agregar>)
 '''
 '''
-Buscar informacion en la lista
+Buscar información en la lista
 Para ingresar datos en una lista usamos la siguiente funcion: 
 print("<Dato> in <Nombre lista>")
 '''
@@ -68,8 +68,8 @@ print("<Dato> in <Nombre lista>")
 print("\nEsta Carlos e la lista:", 'Carlos' in lista)
 
 '''
-Buscar la posicion de un dato de la lista
-Para ingresar datos en una lista usamos la siguiente funcion: 
+Buscar la posición de un dato de la lista
+Para ingresar datos en una lista usamos la siguiente función: 
 print(<Nombre lista>.index(<Dato>)")
 '''
 
@@ -78,13 +78,13 @@ print(lista.index(int(input("\nDesea buscar un numero: "))),"es la posicion del 
 '''
 Anexos
     <Nombre lista>.count(<Datos>): Permite saber cuantas veces hay un valor dentro de la lista
-    <Nombre lista>.pop(<Posicion (n-1)>): Permite eliminar un dato segun la posicion (n-1) y si se deja vacio 
+    <Nombre lista>.pop(<Posicion (n-1)>): Permite eliminar un dato según la posición (n-1) y si se deja vació 
     elimina el ultimo valor.
     <Nombre lista>.remove(<Datos>): Permite eliminar un dato, sea cual sea que se ingrese
     <Nombre lista>.clear(): Limpia toda la lista.
 
 Operar listas
-    <Nombre lista> * #numero : Puede duplicar, triplicar ...etc la informacion de la lista dentro de esta misma.
+    <Nombre lista> * #numero : Puede duplicar, triplicar ...etc la información de la lista dentro de esta misma.
     <Nombre lista>.reverse(): invierte la lista 
     <Nombre lista>.sort(): Ordena la lista de menor a mayor
     <Nombre lista>.sort(reverse=True): Ordena la lista de mayor a menor

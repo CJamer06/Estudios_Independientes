@@ -1,4 +1,4 @@
-#5. Una tienda ofrece u descuento del 15% sobre el total de la compra y un cliente desea saber cuanto debera pagar
+#5. Una tienda ofrece u descuento del 15% sobre el total de la compra y un cliente desea saber cuanto debería pagar
 #finalmente por su compra.
 print("\t --DESCUENTO DEL 15%--")
 TOTAL = float(input("Total de la compra: "))

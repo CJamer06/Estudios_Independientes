@@ -10,7 +10,4 @@ print("Hola {} tienes {} años".format(nombre,edad))
 # Metodo #2 (Declaras lo que quieres mostrar al final)
 
 print(f"Hola {nombre} tienes {edad} años")
-# Metodo #3 (Declaras lo que quieres mostrar dentro de llaves, colocando una "f" antes de las comillas de escritura)
-
-
-
+# Método #3 (Declaras lo que quieres mostrar dentro de llaves, colocando una "f" antes de las comillas de escritura)

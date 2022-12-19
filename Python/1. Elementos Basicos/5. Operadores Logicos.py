@@ -1,12 +1,12 @@
 #Operadores Lógicos
 '''
-    Permite construir expreciones logicas, se obtienen como resultado booleano
+    Permite construir expresiones lógicas, se obtienen como resultado booleano
 
-    - Conjuncion (and)
-    - Disyuncion (or)
-    - Negacion (not)
+    - Conjunción (and)
+    - Disyunción (or)
+    - Negación (not)
 
-    CONJUNCION (and): Se le conoce como una multiplicacion logica
+    CONJUNCIÓN (and): Se le conoce como una multiplicación lógica
 
         Operando 1 - Operador - Operando 2  - Resultado
         True         and        True          True
@@ -14,19 +14,19 @@
         False        and        True          False
         False        and        False         False
 
-    DISYUNCION (or): Se le conoce como una suma logica
+    DISYUNCIÓN (or): Se le conoce como una suma lógica
         Operando 1 - Operador - Operando 2  - Resultado
         True         or         True          True
         True         or         False         True
         False        or         True          True
         False        or         False         False
 
-    NEGACION (not): Se le conoce como el inverso logico
+    NEGACIÓN (not): Se le conoce como el inverso lógico
         Operando   -   Resultado
         not(True)      False
         not(False)     True
 
-    La prioridad de los operadores logicos es:
+    La prioridad de los operadores lógicos es:
         1. not
         2. and
         3. or
@@ -47,7 +47,7 @@ res = not((a<b) and (b<c)) #Al usar el not este cambia por completo el resultado
 print("\n3. Si tenemos que: a = 10, b = 12, c = 13, d = 10")
 print("Entonces el resultado de not((a<b) and (b<c)) es : ", res)
 '''
-    Prioridad de todos los operadores (Aritmeticos, Logicos, Relacionales)
+    Prioridad de todos los operadores (Aritméticos, Lógicos, Relacionales)
 
     1. ()
     2. **

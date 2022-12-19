@@ -1,4 +1,4 @@
-#Operadores Aritmeticos
+#Operadores Aritméticos
 
 N1 = 10
 N2 = 6
@@ -11,32 +11,32 @@ resultado = N1 + N2
 print("\nValor 1:",N1)
 print("Valor 2:",N2)
 
-print("El resultado de la suma de variabeles N1 + N2 es:", resultado)
+print("El resultado de la suma de variables N1 + N2 es:", resultado)
 
 resultado = N1 - N2
-print("El resultado de la resta de variabeles N1 - N2 es:", resultado)
+print("El resultado de la resta de variables N1 - N2 es:", resultado)
 
 resultado = N1 * N2
-print("El resultado de la multiplicacion de variabeles N1 * N2 es:", resultado)
+print("El resultado de la multiplicación de variables N1 * N2 es:", resultado)
 
 resultado = N1 / N2
-print("El resultado de la divicion de variabeles N1 / N2 es:", resultado)
+print("El resultado de la division de variables N1 / N2 es:", resultado)
 
-resultado = N1 % 2 #Divicion modular
-print("El residuo de la divicion modular de variabeles N1 % 2 es:", resultado)
+resultado = N1 % 2 #Division modular
+print("El residuo de la division modular de variables N1 % 2 es:", resultado)
 
-resultado = N1 ** 2 #Potenciacion
-print("El resultado de la divicion de variabeles N1 ** 2 es:", resultado)
+resultado = N1 ** 2 #Potenciación
+print("El resultado de la division de variables N1 ** 2 es:", resultado)
 
 '''
-    La jerarquia de los operadores  aritmeticos tiene el sigiente orden: 
+    La jerarquía de los operadores  aritméticos tiene el siguiente orden: 
     1. Paréntesis ()
     2. Potencia **
-    3. Multiplicacion *, Divicion /, Modiulo %
+    3. Multiplicación *, Division /, Modulo %
     4. Suma +, Resta -
 '''
 
-print("\nEjemplo de operaciones artitmetivas")
+print("\nEjemplo de operaciones aritméticas")
 
 resultado = (3**3)*(13/5 - (2*4))
 print("3³*(13/5 - (2*4)) = ", resultado)

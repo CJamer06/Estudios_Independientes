@@ -1,10 +1,10 @@
 #Operadores Relacionales
 '''
-        1. Se utilizan para establecer una relacion entre 2 valores.
-        2. Compara estos valores entre si y esta comparacion produce
-        un resultado de certeza o falcedad (Verdadero o falso).
-        3. Tienen el mismo nivel prioridad en su valuacion. (se realizan de izquierda a derecha)
-        4. Los operadores relacionales tienen menor prioridad que los aritmeticos.
+        1. Se utilizan para establecer una relación entre 2 valores.
+        2. Compara estos valores entre si y esta comparación produce
+        un resultado de certeza o falsedad (Verdadero o falso).
+        3. Tienen el mismo nivel prioridad en su valuación. (se realizan de izquierda a derecha)
+        4. Los operadores relacionales tienen menor prioridad que los aritméticos.
 
         Operadores relacionales
 
@@ -18,13 +18,13 @@ print("Menor que - Menor o igual")
 RES = 10 < 20
 print("Comparamos si 10 < 20 : " , RES) #Menor que
 RES = 10 <= 20
-print("Comparamos si 10 <= 20 : " , RES) #Menor o igual (Se cumplira siempre que sea menor o igual al otro dato)
+print("Comparamos si 10 <= 20 : " , RES) #Menor o igual (Se cumplirá siempre que sea menor o igual al otro dato)
 
 print("\nMayor que - Mayor o igual ")
 RES = 10 > 20
 print("Comparamos si 10 > 20 : " , RES) #Mayor que
 RES = 10 >= 20
-print("Comparamos si 10 >= 20 : " , RES) #Mayor o igual (Se cumplira siempre que sea mayor o igual al otro dato)
+print("Comparamos si 10 >= 20 : " , RES) #Mayor o igual (Se cumplirá siempre que sea mayor o igual al otro dato)
 
 print("\nDiferente - Igual ")
 RES = 10 != 20

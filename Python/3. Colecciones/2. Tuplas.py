@@ -11,7 +11,7 @@ tupla = (4,5,6,"hola",[1,2,3])
 
 '''
 A diferencia de las listas, esta no permite que se modifique, caso de agregar 
-quitar o no, sin embargo todo lo demas es posible.
+quitar o no, sin embargo todo lo de mas es posible.
 
 Nota: Las tuplas van entre () y las listas entre []
 

@@ -1,6 +1,6 @@
-#Tipos de Datos (Numericos, Cadena, Booleanos)
+#Tipos de Datos (Numéricos, Cadena, Booleanos)
 
-#Las variables entienden de forma automatica de que tipo son
+#Las variables entienden de forma automática de que tipo son
 
 print("El numero es: ") # print() sirve para mostrar mensajes por consola
 
@@ -8,7 +8,7 @@ numero = 10 #Tipo - int -.
 print(numero) # print() sirve para llamar variables.
 print(type(numero)) #Esto me mostrara el tipo de variable y nos ayuda a saber que variable tenemos.
 
-numero = 10.56 #Las variables son reutilizabes y se conoce como tipado dinamico (Tipo - float -).
+numero = 10.56 #Las variables son reutilisables y se conoce como tipado dinámico (Tipo - float -).
 print("El numero es: ")
 print(numero) # print() sirve para llamar variables.
 print(type(numero)) #Esto me mostrara el tipo de variable y nos ayuda a saber que variable tenemos.
