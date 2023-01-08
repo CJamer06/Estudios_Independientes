@@ -10,7 +10,7 @@ Ejemplo: Sacar el valor absoluto de un valor
 using namespace std;
 
 template <class TIPOD> 
-/*Prefijo de la plantilla, sirve para que el compilador determine de forma automatica el tipo de dato 
+/*Prefijo de la plantilla, sirve para que el comColador determine de forma automatica el tipo de dato 
 que se le esta igresando*/
 
 //Protrotipo de funcion
