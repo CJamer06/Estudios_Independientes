@@ -13,17 +13,17 @@ Definicion funciones
 
 Ejemplos
 
-int numMAx(int x, int y); Esta funcion retorna un valor entero.
-doble intercambio(doble x, doble y); Esta funcion retorna un valor doble.
+int numMAx(int x, int y); Esta función retorna un valor entero.
+doble intercambio(doble x, doble y); Esta función retorna un valor doble.
 void desplegar(float x, float y); No retorna nada.*/
 
 #include<iostream>
 
 using namespace std;
 
-int BUSMAX(int x, int y); //Protoripo de la funcion
+int BUSMAX(int x, int y); //Protoripo de la función
 
-int main()  //Funcion principal
+int main()  //función principal
 {
     int N1, N2;
 
@@ -33,7 +33,7 @@ int main()  //Funcion principal
     return 0;
 }
 
-int BUSMAX(int x, int y) // Definicio de la funcion
+int BUSMAX(int x, int y) // Definicio de la función
 {
     int NUMMAX;
     if (x > y)

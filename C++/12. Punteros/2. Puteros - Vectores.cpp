@@ -19,7 +19,7 @@ int main()
     for (int i = 0; i < 5; i++)
     {
         cout<<"Elemento del vector ["<<i<<"]: "<<*p++<<endl; 
-        //Aca estamos mostrando el vector aumentando el puntero para que cambie de posicion.
+        //Aca estamos mostrando el vector aumentando el puntero para que cambie de posición.
     }
 
     system("pause");

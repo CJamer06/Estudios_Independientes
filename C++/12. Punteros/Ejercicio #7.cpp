@@ -6,7 +6,7 @@ NOTA: Recuerda que debes utilizar punteros . */
 #include<string.h>
 using namespace std;
 
-//Prototipo de Función
+//Prototipo de función
 void pedirDatos();
 int contarVocales(char *);
 

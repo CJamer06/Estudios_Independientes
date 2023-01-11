@@ -29,7 +29,7 @@ int main()
     }
     else if(band == 'v')
     {
-        cout<<"El numero "<<dato<<" existe en el arregro en la posicion "<<i-1<<endl;
+        cout<<"El numero "<<dato<<" existe en el arregro en la posición "<<i-1<<endl;
     }
     return 0;
 }

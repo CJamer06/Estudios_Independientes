@@ -6,7 +6,7 @@ y despliegue el resultado. La función deberá ser capaz de elevar al cuadrado n
 
 using namespace std;
 
-//Prototipo de la funcion
+//Prototipo de la función
 void PD();
 void al_cuadrado(float x);
 

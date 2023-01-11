@@ -52,6 +52,6 @@ void BUSCAR(int *dirVec, int N)
     }
     else if(band == 'v')
     {
-        cout<<"El numero "<<Aux<<" existe en el arregro en la posicion "<<i-1<<endl;
+        cout<<"El numero "<<Aux<<" existe en el arregro en la posición "<<i-1<<endl;
     }
 }

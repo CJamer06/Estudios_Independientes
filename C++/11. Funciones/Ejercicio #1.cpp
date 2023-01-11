@@ -1,4 +1,4 @@
-/*1. Escriba una funcion llamada mult() que acepte dos numeros en punto flotante como parametros, 
+/*1. Escriba una función llamada mult() que acepte dos numeros en punto flotante como parametros, 
 multiplique estos dumeros y despliegue el resultado.
 */
 

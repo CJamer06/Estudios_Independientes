@@ -1,7 +1,7 @@
 /*Metodo Burbuja
 
 Es un sencillo algoritmo de ordenamiento. Funciona revisando cada elemento de la lista que va a ser ordenada con la siguiente,
-intercambiadolos de posicion si estan en el orden equivocado. Es necesasrio revisar varias veces toda la lista hasta que no se 
+intercambiadolos de posición si estan en el orden equivocado. Es necesasrio revisar varias veces toda la lista hasta que no se 
 necesiten mas cambios, lo cual significa que la lista esta ordenada.
 
 |4||5||2||1||3| Ordenamos de menor a mayor

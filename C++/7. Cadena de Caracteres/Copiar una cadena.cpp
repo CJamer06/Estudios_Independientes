@@ -1,4 +1,4 @@
-/*Copiar el contenido de una cadena a otra - Funcion strcpy
+/*Copiar el contenido de una cadena a otra - función strcpy
 
     Tomamos la cadena 2 (Que esta vacia) y le copiamos la ingformacion de la cadena 1
 

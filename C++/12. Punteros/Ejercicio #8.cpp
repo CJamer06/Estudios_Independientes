@@ -14,7 +14,7 @@ char palabraUsuario[30];
 
 int main(){
 	pedirDatos();
-	contarVocales(palabraUsuario);//Llamada a la funcion para contar vocales del nombre
+	contarVocales(palabraUsuario);//Llamada a la función para contar vocales del nombre
 	
 	getch();
 	return 0;

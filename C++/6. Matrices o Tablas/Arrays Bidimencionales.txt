@@ -14,7 +14,7 @@ char letras[3][2] => Tene 3 filas y 2 columnas
 
 Agregar elementos
 
-Para esto debe indicarse al igul que en los vectores en que posicion se desea guardar el elemento, teneiendo en cuenta
+Para esto debe indicarse al igul que en los vectores en que posición se desea guardar el elemento, teneiendo en cuenta
 las filas y las columnas.
 
 int numeros[2][3] = {1,2,3,4,5,6}

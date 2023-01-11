@@ -1,4 +1,4 @@
-//Pasar una palabra a minuscula - Funcion striwr()
+//Pasar una palabra a minuscula - función striwr()
 
 #include <iostream>
 #include <string.h>

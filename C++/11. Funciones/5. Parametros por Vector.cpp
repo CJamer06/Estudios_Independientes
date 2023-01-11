@@ -1,9 +1,9 @@
 /* Paso de paramatros de tipo vecto
 
-Parametros de la funcion:
+Parametros de la función:
     void <Nombre_Funcion>(<tipo> <Nom_Arreglo>[], int <tamaño_Arreglo>);
 
-Llamar a la funcion:
+Llamar a la función:
     <Nombre_Funcion>(<Nom_Arreglo>,<tamaño_Arreglo>);
 */
 

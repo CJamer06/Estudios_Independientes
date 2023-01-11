@@ -18,4 +18,4 @@ int main()
 
     return 0;
 }
-//Nota: No usar la funcion pow.
+//Nota: No usar la función pow.

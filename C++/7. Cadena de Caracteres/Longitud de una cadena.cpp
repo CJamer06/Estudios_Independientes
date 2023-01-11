@@ -1,4 +1,4 @@
-/*Longitud de una cadena de caracteres - Funcion strlen()
+/*Longitud de una cadena de caracteres - función strlen()
 
     Retorna el numero de elementos que tiene la cadena.
 

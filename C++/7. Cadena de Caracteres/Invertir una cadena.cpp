@@ -1,4 +1,4 @@
-//Invertir una cadena - Funcion strrev()
+//Invertir una cadena - función strrev()
 
 #include <iostream>
 #include <string.h>

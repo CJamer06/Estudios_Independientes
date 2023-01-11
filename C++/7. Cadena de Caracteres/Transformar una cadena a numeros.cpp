@@ -1,4 +1,4 @@
-//Transforma una cadena a numeros - Funcion atoi() y atof()
+//Transforma una cadena a numeros - función atoi() y atof()
 
 #include<iostream>
 #include<stdlib.h>

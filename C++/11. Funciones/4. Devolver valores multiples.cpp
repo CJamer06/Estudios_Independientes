@@ -15,7 +15,7 @@ int main()
     CALC(N1,N2,SUM,MUL);
     /*
     AL modificarse los datos en la memoria solo llamamos a estos espacios y nos mostraran lo modificado
-    en la funcion.
+    en la función.
     */
     cout<<N1<<"+"<<N2<<" = "<<SUM<<endl;
     cout<<N1<<"*"<<N2<<" = "<<MUL<<endl;

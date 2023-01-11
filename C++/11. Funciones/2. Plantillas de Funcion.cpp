@@ -1,6 +1,6 @@
 /*Plantillas de funciones
 
-    Sirve para hacer una funcion que sirva para varios tipos de datos.
+    Sirve para hacer una función que sirva para varios tipos de datos.
 
 Ejemplo: Sacar el valor absoluto de un valor
 */
@@ -13,7 +13,7 @@ template <class TIPOD>
 /*Prefijo de la plantilla, sirve para que el comColador determine de forma automatica el tipo de dato 
 que se le esta igresando*/
 
-//Protrotipo de funcion
+//Protrotipo de función
 void MOSVAB(TIPOD NUM);
 
 int main()

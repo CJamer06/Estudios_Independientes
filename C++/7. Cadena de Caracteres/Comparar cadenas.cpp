@@ -1,4 +1,4 @@
-/*Comparar cadenas - Funcion strcmp()
+/*Comparar cadenas - función strcmp()
     Compara la igualdad de las cadenas de igual forma nos informa cual de las 2 es mayor alfabeticamente hablando.
 */
 

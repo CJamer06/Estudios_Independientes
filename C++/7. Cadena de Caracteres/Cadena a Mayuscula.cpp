@@ -1,4 +1,4 @@
-//Pasar una palabra a MAYUSCULA - Funcion strupr()
+//Pasar una palabra a MAYUSCULA - función strupr()
 
 #include <iostream>
 #include <string.h>
