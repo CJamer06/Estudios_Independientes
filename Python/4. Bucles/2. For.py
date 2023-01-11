@@ -22,4 +22,4 @@ for clave,valor in Equipo.items():
 
 for i in "Amaranto":
     print(f"{i}",end=".")
-  
+    
