@@ -1,5 +1,5 @@
 '''
-2. Hacer un programa que realice la serie de fibonacci -> 1 1 2 3 5 8 13
+2. Hacer un programa que realice la serie de Fibonacci -> 1 1 2 3 5 8 13
 '''
 
 N = int(input("Numero de elementos de la secuencia: "))
@@ -9,9 +9,10 @@ y = 1
 z = 1
 i = 0
 
-while i<N:    
+while i<N:
+
     if i != N-1:
-        print(f"{z}", end=",")
+        print(f"{z}", end=", ")
     else:
         print(f"{z}", end=".")
     
