@@ -1,6 +1,6 @@
 #Listas (Arreglos y struct)
 '''
-Las listas son un conjunto de información almacenado de forma secuancial, sin importar su tipo o definicion.
+Las listas son un conjunto de información almacenado de forma secuencial, sin importar su tipo o definición.
 
 Nombre de la lista = [Contenido de la lista] #De esta forma se declara una lista en python
 print(lista) # De esta forma se muestra una lista
@@ -22,9 +22,9 @@ print(f"El ultimo dia de la lista es {lista[-1]}") #Al igual que el -1 como su u
 '''
 Para mostrar una sola parte de la lista tenemos que:
 
-print(<Nombre de la lista>[<Posición1(n-1)>:<Posicion2(n+1)>] 
-print(<Nombre de la lista>[:<Posición2(n+1)>] Va desde 0 hasta la Posicion2
-print(<Nombre de la lista>[<Posición1(n-1)>:] Va desde Posicion1 hasta n-1
+print(<Nombre de la lista>[<Posición1(n-1)>:<Posición2(n+1)>] 
+print(<Nombre de la lista>[:<Posición2(n+1)>] Va desde 0 hasta la Posición2
+print(<Nombre de la lista>[<Posición1(n-1)>:] Va desde Posición1 hasta n-1
 
 Se escribe de esta forma para que Python inicie en un valor n-1 y llegue a un indice anterior de n+1.
 '''
