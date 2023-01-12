@@ -22,9 +22,3 @@ for clave,valor in Equipo.items():
 
 for i in "Amaranto":
     print(f"{i}",end=".")
-
-
-O = int(input("\nTu edad: "))
-
-for i in range(0,O):
-    print(f"{i}")
