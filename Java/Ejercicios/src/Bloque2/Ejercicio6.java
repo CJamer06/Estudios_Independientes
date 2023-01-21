@@ -1,7 +1,5 @@
 package Bloque2;
 
-import jdk.nashorn.internal.scripts.JO;
-
 import javax.swing.*;
 
 public class Ejercicio6 {
