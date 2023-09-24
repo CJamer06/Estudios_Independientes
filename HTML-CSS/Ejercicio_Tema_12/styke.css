@@ -1,0 +1,38 @@
+.container {
+    
+}
+
+.item {
+    text-align: center;
+    display: flex;
+    color: white;
+    border: 2px solid #343a40;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+}
+
+.color1{
+    background-color: #007bff;;
+}
+
+.color2{
+    background-color: #6610f2;
+}
+
+.color3{
+    background-color: #fd7e14;
+}
+
+.color4{
+    background-color: #e83e8c;
+}
+
+.color5{
+    background-color: #28a745;
+}
+
+.color6{
+    background-color: #343a40
+}
+
